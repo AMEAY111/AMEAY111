@@ -1,6 +1,6 @@
 # AMEAY111 # 
 💫 About Me:
-currently working on a web devepoment project <br><br>i am learning web development , deployment management, ci/cd pipelime management <br><br>fundamental knowledge of programming (c++,c,Java,python) 
+currently working on a web devepoment project <br><br>i am learning web development , deployment management, ci/cd pipeline management <br><br>fundamental knowledge of programming (c++,c,Java,python) 
 
 
 ## 🌐 Socials:
